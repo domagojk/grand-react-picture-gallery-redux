@@ -1,6 +1,6 @@
 # The Grand React Picture Gallery (Redux)
 This is a simple React application,
-made to complement The Grand React blog post.
+made to complement [The Grand React blog post](https://medium.com/@domagojk/the-grand-react-hotel-219b4d393261).
 
 It is explained using the same characters featured in the post in a "recipe style guide".
 
